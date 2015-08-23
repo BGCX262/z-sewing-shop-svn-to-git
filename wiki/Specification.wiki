@@ -1,0 +1,20 @@
+#Веб сайт автозапчастин
+
+= Intro = 
+
+REST single-page аплікація. Зручна навігація, можливість редагування, каталог автозапчастин, пошук по VIN коду
+
+= Part 1: Catalogs and Models =
+
+Перша задача - розробити каталог і вибір через:
+- марку автомобіля
+- тип запчастини
+
+Створити базу даних. Створити REST сервер
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
